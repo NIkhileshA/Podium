@@ -1,0 +1,33 @@
+<div class="row">
+
+ <div class="col-md-12" style="background-image:url(images/background_img.jpg);" id="back">
+    <nav class="navbar">
+      
+        
+            <a class="navbar-brand" href="main.html" style="color:#FFF"><img src="images/podium-mobile-logo.png" id="mobile_img"></a>
+       
+         <ul class="nav navbar-nav">
+
+         <li ><a href="#" class="dropdown-toggle" data-toggle="dropdown">PRODUCT</a></li>
+         <li><a href="#">SOLUTIONS</a></li>
+         <li><a href="#">RESOURCES</a></li>
+         <li><a href="#">COMPANY</a></li>
+         <li><a href="#">BLOG</a></li>
+         <button id="background_btn" class="btn btn-danger navbar-btn">WATCH DEMO</button>
+           <ul class="nav navbar-nav navbar-right">
+           <li><a href="#"><span class="glyphicon"></span>LOGIN</a></li>
+         </ul>
+         </ul>
+        
+       </nav> 
+       
+     
+        <h1> We Power Local Interaction.</h>
+        <h4>Podium makes it easy for local businesses and consumers to interact via familiar channels.</h4>
+        <button id="background_btn" class="btn btn-danger navbar-btn">SEE IT IN ACTION</button>
+     
+
+  
+</div>
+</div>
+ d14fb25dvb

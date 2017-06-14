@@ -1,0 +1,185 @@
+
+
+
+<div class="row center-block" style="margin-left:20%;margin-right:20%">
+<div class=" col-md-12" style="text-align:center;">
+
+<h2>Interact through familiar channels.<h2>
+<h5>Today’s customer is more informed than ever before and they’re here to stay. They have endless access to information such as online reviews and can make decisions about your business before you even engage with them. Podium helps over 80,000+ take control of their customer interaction. Podium can help you, too.<h5>
+</div>
+</div>
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-12">
+<hr  />
+</div>
+</div>
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-5">
+<img src="images/podiumHome_11.png" height="100%" width="100%">
+</div>
+<div class="col-md-7">
+<h2>Stand out in local search (SEO)</h2>
+Standing out can be difficult. Podium allows you to quickly collect more online reviews from 100s of sites. Combine 100s of authentic reviews with higher rankings in local search, and there is no stopping you.
+<div class="row">
+<button  class="btn btn-danger navbar-btn">SEE IT IN ACTION</button>
+</div>
+</div>
+</div>
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-12">
+<hr  />
+</div>
+</div>
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-6">
+<h2>Increase exposure on the most important sites</h2>
+Not all review sites are made equal. Fortunately, Podium automatically helps you prioritize and choose the online review sites that matter most to your business. From Google and Facebook to industry-specific review sites, Podium’s SmartSelect technology can help your customers efficiently get to the sites that have the largest impact on your business.
+<div class="row">
+
+<button  class="btn btn-danger navbar-btn">LEARN MORE</button>
+</div>
+
+</div>
+<div class="col-md-6">
+<img src="images/NEW-HOMEPAGE-LOGOS-1.png" height="100%" width="100%">
+</div>
+</div>
+</div>
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-12">
+<hr  />
+</div>
+</div>
+
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-5">
+<img src="images/HomePage_Messaging_03-1050x618.png" height="100%" width="100%">
+</div>
+<div class="col-md-7">
+<h2>Personalize your interaction at scale </h2>
+Start interacting with customers via familiar channels like text message. Whether you’re responding to feedback or reviews, following up on a customer visit, or answering customer questions, Podium helps you communicate in a personal and convenient way to help build long-lasting, meaningful relationships.
+<div class="row">
+<button  class="btn btn-danger navbar-btn">LEARN MORE</button>
+</div>
+</div>
+</div>
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-12">
+<hr  />
+</div>
+</div>
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-6">
+<h2>Better understand your customers</h2>
+Do you have a perfect understanding of your average customer? Most businesses don’t. Podium’s dashboard allows you to see your business’ reviews across multiple platforms and gain better insights into your customers wants, needs, preferences, and priorities.
+<div class="row">
+
+<button  class="btn btn-danger navbar-btn">LEARN MORE</button>
+</div>
+
+</div>
+<div class="col-md-6">
+<img src="images/HomePage_Sentiment_01-1050x590.png" height="100%" width="100%">
+</div>
+</div>
+</div>
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-12">
+<hr  />
+</div>
+</div>
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-12" style="text-align:center">
+<h2>Get real reviews that drive real results</h2>
+</div>
+<div class="row">
+<div class="col-md-4">
+<img src="images/Artboard-1.jpg" height="30%" width="30%" style="margin-left:30%; margin-left:30%">
+  <h4>Get authentic reviews</h4>
+Collect real reviews from your customers that drive results. Podium’s mobile platform generates completion rates up to 15x higher than traditional email-based platforms. That means more insight into your business
+</div>
+<div class="col-md-4">
+<img src="images/Artboard-2.png" height="30%" width="30%" style="margin-left:30%; margin-left:30%">
+  <h4>Gain business insights</h4>
+Get a better understanding for areas of your business that need improvement. Track and monitor your reviews for multiple sites to understand where your business is doing great and where it needs some attention.
+</div>
+<div class="col-md-4">
+<img src="images/Artboard-3.png" height="30%" width="30%" style="margin-left:30%; margin-left:30%">
+  <h4>Impact local SEO</h4>
+Your business’ online reviews have an impact on local search engine optimization (SEO) and where you appear in the search rankings. In addition, businesses that appear in the 3-pack are more visible to prospective customers.
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<img src="images/Artboard-4.png" height="30%" width="30%" style="margin-left:30%; margin-left:30%">
+    <h4>Build a balanced presence</h4>
+Hundreds of reviews on one site is great. Hundreds of reviews on multiple sites is even better. Podium will automatically help you build a balanced presence across the most important review sites.
+</div>
+<div class="col-md-4">
+<img src="images/Artboard-5.png" height="30%" width="30%" style="margin-left:30%; margin-left:30%">
+ <h4>Increase brand trust</h4>
+No one knows better than you that your business is a reputable, trustworthy operation. Reviews on various review sites can help let the world know that you’re reliable and a business which they should choose.
+</div>
+<div class="col-md-4">
+<img src="images/Artboard-6.png" height="30%" width="30%" style="margin-left:30%; margin-left:30%">
+  <h4>Get valuable feedback</h4>
+See into every corner of your business and learn the things that will keep customers coming back. Positive or negative, Podium will deliver feedback about customer’s experiences that you can use to make educated business decisions.
+</div>
+</div>
+</div>
+
+
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="col-md-12">
+<hr  />
+</div>
+</div>
+
+
+
+<div class="row" style="margin-left:10%;margin-right:10%">
+<div class="row" style="text-align:center">
+<h2>Podium is the choice for 80,000 users and counting</h2>
+</div>
+<div class="row">
+<div class="col-md-3">
+<img src="images/vivint-solar-proof1.png" height="100%" width="100%" style=" -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%); -webkit-filter: opacity(30%); 
+    filter: opacity(30%);" >
+</div>
+<div class="col-md-3">
+<img src="images/euro-wax-proof2.png" height="100%" width="100%" style=" -webkit-filter: grayscale(100%);
+    filter: grayscale(100%); -webkit-filter: opacity(30%); 
+    filter: opacity(30%); " >
+</div>
+<div class="col-md-3">
+<img src="images/KenGarff_podiumWeb.png" height="100%" width="100%" style=" -webkit-filter: grayscale(100%);
+   filter: grayscale(100%); -webkit-filter: opacity(30%);  ">
+</div>
+<div class="col-md-3">
+<img src="images/south-texas-social-proof-150x150.png" height="100%" width="100%" style=" -webkit-filter: grayscale(100%);
+   filter: grayscale(100%); -webkit-filter: opacity(30%);
+    filter: opacity(30%); " >
+</div>
+</div>
+</div>
+
